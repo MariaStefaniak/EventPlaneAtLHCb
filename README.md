@@ -40,6 +40,7 @@ Q-vectors are calculated for:
   Bin 1: 0.5–2.5  
   Bin 2: 2.5–4.0  
   Bin 3: 4.0–6.0
+  Bin 4: 0.5-6.0
 
 Each event also stores:
 GPSTIME, EVENTNUMBER, PVX, PVY, PVZ, RUNNUMBER, nBackTracks, nVeloClusters, nVeloTracks, nEcalClusters, ECalETot, nLongTracks, nVPClusters, nPrimaryForTracks_1, nPrimaryForTracks_2, nPrimaryForTracks_3, nPrimaryBackTracks
